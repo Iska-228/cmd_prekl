@@ -403,5 +403,5 @@ int main() {
     chooseAction();
 }
 
-
+//aaooaoaoaooa
 //printf("%f", obj_double); из 1e20 в 10000000000.000000
